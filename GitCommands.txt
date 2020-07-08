@@ -1,0 +1,14 @@
+*Go to working directory
+e:\>cd /d f:/bhakti/work samples
+
+*Create  a folder for the new project
+f:\Bhakti\Work Samples>mkdir gitsample
+
+*Go to the new folder
+f:\Bhakti\Work Samples>cd /d gitsample
+
+*Initialise git repo
+f:\Bhakti\Work Samples\gitsample>git init
+Initialized empty Git repository in F:/Bhakti/Work Samples/gitsample/.git/
+
+
