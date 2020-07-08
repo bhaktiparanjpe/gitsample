@@ -11,4 +11,8 @@ f:\Bhakti\Work Samples>cd /d gitsample
 f:\Bhakti\Work Samples\gitsample>git init
 Initialized empty Git repository in F:/Bhakti/Work Samples/gitsample/.git/
 
+*Log in to git before commit
+f:\Bhakti\Work Samples\gitsample>git .... some command .... 
+
+
 
